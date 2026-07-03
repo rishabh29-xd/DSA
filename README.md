@@ -20,4 +20,12 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
