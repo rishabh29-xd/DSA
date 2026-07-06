@@ -54,6 +54,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rishabh29-xd/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -66,5 +67,6 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
