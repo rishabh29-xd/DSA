@@ -9,6 +9,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0011-container-with-most-water](https://github.com/rishabh29-xd/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabh29-xd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
@@ -31,6 +32,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
