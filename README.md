@@ -14,6 +14,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/rishabh29-xd/DSA/tree/master/0238-product-of-array-except-self) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabh29-xd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
