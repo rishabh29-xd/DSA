@@ -43,6 +43,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabh29-xd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -85,4 +88,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh29-xd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
