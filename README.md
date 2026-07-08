@@ -34,6 +34,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/rishabh29-xd/DSA/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/rishabh29-xd/DSA/tree/master/0204-count-primes) |
