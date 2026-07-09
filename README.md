@@ -10,6 +10,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabh29-xd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
@@ -94,6 +95,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh29-xd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sliding Window
@@ -108,4 +110,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishabh29-xd/DSA/tree/master/0204-count-primes) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
