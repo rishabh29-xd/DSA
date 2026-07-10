@@ -10,7 +10,7 @@ public:
             else if(target < matrix[row][col]){
                 col-- ; 
             }
-            else if(target > matrix[row][col]){
+            else{
                 row++ ; }
             }
             return false ; 
