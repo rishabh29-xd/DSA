@@ -9,6 +9,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0011-container-with-most-water](https://github.com/rishabh29-xd/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabh29-xd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -93,6 +94,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabh29-xd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh29-xd/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
