@@ -23,6 +23,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh29-xd/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh29-xd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -59,6 +60,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
@@ -92,6 +94,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rishabh29-xd/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
