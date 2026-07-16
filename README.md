@@ -15,6 +15,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishabh29-xd/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
@@ -42,6 +43,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
@@ -149,4 +151,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishabh29-xd/DSA/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
