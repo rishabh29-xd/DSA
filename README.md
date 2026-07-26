@@ -11,6 +11,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
@@ -156,6 +157,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishabh29-xd/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
