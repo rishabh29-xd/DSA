@@ -11,6 +11,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
@@ -69,6 +70,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
@@ -147,6 +149,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh29-xd/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -158,6 +161,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
