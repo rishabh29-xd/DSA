@@ -13,6 +13,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishabh29-xd/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rishabh29-xd/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
@@ -164,6 +165,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishabh29-xd/DSA/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/rishabh29-xd/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
