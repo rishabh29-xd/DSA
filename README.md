@@ -97,6 +97,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
@@ -173,4 +175,20 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishabh29-xd/DSA/tree/master/0090-subsets-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
