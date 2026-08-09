@@ -52,6 +52,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0078-subsets](https://github.com/rishabh29-xd/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishabh29-xd/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Math
 |  |
@@ -61,12 +62,14 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/rishabh29-xd/DSA/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishabh29-xd/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishabh29-xd/DSA/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
