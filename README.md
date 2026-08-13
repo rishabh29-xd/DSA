@@ -81,6 +81,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rishabh29-xd/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
