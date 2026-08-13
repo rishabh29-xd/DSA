@@ -32,6 +32,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0540-single-element-in-a-sorted-array](https://github.com/rishabh29-xd/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishabh29-xd/DSA/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
@@ -54,6 +55,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0136-single-number](https://github.com/rishabh29-xd/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0344-reverse-string](https://github.com/rishabh29-xd/DSA/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/rishabh29-xd/DSA/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/rishabh29-xd/DSA/tree/master/0567-permutation-in-string) |
+| [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -131,6 +134,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
+| [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/rishabh29-xd/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
@@ -160,6 +164,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh29-xd/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Memoization
 |  |
