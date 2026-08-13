@@ -8,6 +8,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rishabh29-xd/DSA/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/rishabh29-xd/DSA/tree/master/0027-remove-element) |
@@ -121,6 +122,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -198,4 +200,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
