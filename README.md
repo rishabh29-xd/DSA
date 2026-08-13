@@ -65,6 +65,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0009-palindrome-number](https://github.com/rishabh29-xd/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rishabh29-xd/DSA/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/rishabh29-xd/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishabh29-xd/DSA/tree/master/0509-fibonacci-number) |
@@ -146,6 +147,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/rishabh29-xd/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rishabh29-xd/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/rishabh29-xd/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -207,4 +209,8 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishabh29-xd/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
