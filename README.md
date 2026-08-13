@@ -36,6 +36,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0704-binary-search](https://github.com/rishabh29-xd/DSA/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/rishabh29-xd/DSA/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/rishabh29-xd/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2239-find-closest-number-to-zero](https://github.com/rishabh29-xd/DSA/tree/master/2239-find-closest-number-to-zero) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
