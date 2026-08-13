@@ -15,6 +15,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/rishabh29-xd/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/rishabh29-xd/DSA/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/rishabh29-xd/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
@@ -84,6 +85,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/rishabh29-xd/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
