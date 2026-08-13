@@ -64,6 +64,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0007-reverse-integer](https://github.com/rishabh29-xd/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishabh29-xd/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/rishabh29-xd/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rishabh29-xd/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishabh29-xd/DSA/tree/master/0069-sqrtx) |
@@ -81,6 +82,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishabh29-xd/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
@@ -126,6 +128,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
