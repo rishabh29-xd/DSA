@@ -17,6 +17,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0040-combination-sum-ii](https://github.com/rishabh29-xd/DSA/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/rishabh29-xd/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/rishabh29-xd/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/rishabh29-xd/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/rishabh29-xd/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rishabh29-xd/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/rishabh29-xd/DSA/tree/master/0054-spiral-matrix) |
@@ -86,6 +87,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/rishabh29-xd/DSA/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/rishabh29-xd/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rishabh29-xd/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/rishabh29-xd/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -96,6 +98,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | ------- |
 | [0015-3sum](https://github.com/rishabh29-xd/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/rishabh29-xd/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/rishabh29-xd/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/rishabh29-xd/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
 ## Counting
@@ -133,6 +136,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0013-roman-to-integer](https://github.com/rishabh29-xd/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rishabh29-xd/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/rishabh29-xd/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/rishabh29-xd/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/rishabh29-xd/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishabh29-xd/DSA/tree/master/0242-valid-anagram) |
