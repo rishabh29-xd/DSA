@@ -73,6 +73,7 @@ A collection of LeetCode solutions in C++ with explanations, organized by topic 
 | [0204-count-primes](https://github.com/rishabh29-xd/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rishabh29-xd/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/rishabh29-xd/DSA/tree/master/0509-fibonacci-number) |
+| [2235-add-two-integers](https://github.com/rishabh29-xd/DSA/tree/master/2235-add-two-integers) |
 | [2965-find-missing-and-repeated-values](https://github.com/rishabh29-xd/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
 |  |
